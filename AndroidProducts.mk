@@ -15,7 +15,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/calyx_instantnoodlep.mk
+    $(LOCAL_DIR)/calyx_instantnoodlep.mk \
     $(LOCAL_DIR)/lineage_instantnoodlep.mk
 
 COMMON_LUNCH_CHOICES := \
